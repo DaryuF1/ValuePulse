@@ -1,0 +1,6 @@
+Target: 5.0
+Cota reala: 5.27
+Probabilitate: 100.00%
+
+France vs England | X | 3.90
+Spain vs Argentina | 1X | 1.35

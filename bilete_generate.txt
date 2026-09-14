@@ -1,0 +1,23 @@
+=== BILETE PENTRU COTA 5.00 ===
+
+--- Varianta 1 ---
+Cota reala: 5.25 | Probabilitate matematica: 37.65%
+Ipswich Town vs Fulham | X2 | 1.34
+Everton vs Ipswich Town | 1X | 1.22
+Liverpool vs Manchester City | 1X | 1.55
+Manchester United vs Tottenham Hotspur | X2 | 2.07
+
+--- Varianta 2 ---
+Cota reala: 5.20 | Probabilitate matematica: 32.30%
+Ipswich Town vs Fulham | X2 | 1.34
+Liverpool vs Manchester City | 1X | 1.55
+Aston Villa vs Brentford | 1X | 1.34
+Fulham vs Manchester United | 1X | 1.87
+
+--- Varianta 3 ---
+Cota reala: 5.17 | Probabilitate matematica: 31.21%
+Ipswich Town vs Fulham | X2 | 1.34
+Aston Villa vs Brentford | 1X | 1.34
+Bournemouth vs Liverpool | X2 | 1.39
+Manchester United vs Tottenham Hotspur | X2 | 2.07
+

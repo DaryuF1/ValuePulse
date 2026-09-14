@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "data": "2026-09-14",
+        "cota": 2.18784,
+        "probabilitate": 0.5896453987131377,
+        "status": "\u00cen desf\u0103\u0219urare",
+        "ticket": [
+            {
+                "match": "Botafogo vs Vasco da Gama",
+                "selection": "1X",
+                "odds": 1.28,
+                "prob": 0.9023633207123836,
+                "value": 1.1542658920775994
+            },
+            {
+                "match": "Atl\u00e9tico Madrid vs CA Osasuna",
+                "selection": "1X",
+                "odds": 1.06,
+                "prob": 0.9002160279763599,
+                "value": 0.9507544716522257
+            },
+            {
+                "match": "Corinthians vs Fluminense",
+                "selection": "1X",
+                "odds": 1.29,
+                "prob": 0.8565608741503689,
+                "value": 1.1062259961065481
+            },
+            {
+                "match": "Internacional vs Corinthians",
+                "selection": "1X",
+                "odds": 1.25,
+                "prob": 0.8474313105705358,
+                "value": 1.0620279846541774
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "data": "2026-09-14",
+        "cota": 2.18784,
+        "probabilitate": 0.5896453987131377,
+        "status": "\u00cen desf\u0103\u0219urare",
+        "ticket": [
+            {
+                "match": "Botafogo vs Vasco da Gama",
+                "selection": "1X",
+                "odds": 1.28,
+                "prob": 0.9023633207123836,
+                "value": 1.1542658920775994
+            },
+            {
+                "match": "Atl\u00e9tico Madrid vs CA Osasuna",
+                "selection": "1X",
+                "odds": 1.06,
+                "prob": 0.9002160279763599,
+                "value": 0.9507544716522257
+            },
+            {
+                "match": "Corinthians vs Fluminense",
+                "selection": "1X",
+                "odds": 1.29,
+                "prob": 0.8565608741503689,
+                "value": 1.1062259961065481
+            },
+            {
+                "match": "Internacional vs Corinthians",
+                "selection": "1X",
+                "odds": 1.25,
+                "prob": 0.8474313105705358,
+                "value": 1.0620279846541774
+            }
+        ]
+    }
+]

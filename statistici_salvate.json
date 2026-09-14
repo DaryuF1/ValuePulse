@@ -1,0 +1,1686 @@
+{
+    "Liverpool": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.4608695652173915,
+        "defense_home": 0.5925925925925926,
+        "attack_away": 1.6296296296296298,
+        "defense_away": 0.8695652173913044
+    },
+    "Arsenal": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.2173913043478262,
+        "defense_home": 0.6296296296296297,
+        "attack_away": 1.2592592592592593,
+        "defense_away": 0.591304347826087
+    },
+    "Manchester City": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.4956521739130435,
+        "defense_home": 0.8518518518518519,
+        "attack_away": 1.0740740740740742,
+        "defense_away": 0.7304347826086958
+    },
+    "Chelsea": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.2173913043478262,
+        "defense_home": 0.6666666666666666,
+        "attack_away": 1.0740740740740742,
+        "defense_away": 0.8695652173913044
+    },
+    "Newcastle": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.391304347826087,
+        "defense_home": 0.7407407407407407,
+        "attack_away": 1.037037037037037,
+        "defense_away": 0.9391304347826087
+    },
+    "Aston Villa": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.182608695652174,
+        "defense_home": 0.7407407407407407,
+        "attack_away": 0.8888888888888888,
+        "defense_away": 1.0782608695652174
+    },
+    "Nottingham Forest": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.9043478260869566,
+        "defense_home": 0.5925925925925926,
+        "attack_away": 1.1851851851851851,
+        "defense_away": 1.0434782608695652
+    },
+    "Brighton": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.0434782608695652,
+        "defense_home": 0.962962962962963,
+        "attack_away": 1.3333333333333333,
+        "defense_away": 1.1478260869565218
+    },
+    "Bournemouth": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.8,
+        "defense_home": 0.5925925925925926,
+        "attack_away": 1.2962962962962963,
+        "defense_away": 1.0434782608695652
+    },
+    "Brentford": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.391304347826087,
+        "defense_home": 1.2962962962962963,
+        "attack_away": 0.962962962962963,
+        "defense_away": 0.7652173913043478
+    },
+    "Fulham": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.9391304347826087,
+        "defense_home": 1.1111111111111112,
+        "attack_away": 1.0,
+        "defense_away": 0.8347826086956521
+    },
+    "Crystal Palace": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.8347826086956521,
+        "defense_home": 0.962962962962963,
+        "attack_away": 1.0,
+        "defense_away": 0.8695652173913044
+    },
+    "Everton": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.9043478260869566,
+        "defense_home": 0.8518518518518519,
+        "attack_away": 0.5925925925925926,
+        "defense_away": 0.7304347826086958
+    },
+    "West Ham": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.8,
+        "defense_home": 1.2592592592592593,
+        "attack_away": 0.8518518518518519,
+        "defense_away": 0.9739130434782609
+    },
+    "Manchester United": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.8,
+        "defense_home": 1.037037037037037,
+        "attack_away": 0.7777777777777779,
+        "defense_away": 0.9043478260869566
+    },
+    "Wolves": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.9391304347826087,
+        "defense_home": 1.1851851851851851,
+        "attack_away": 1.0,
+        "defense_away": 1.2869565217391306
+    },
+    "Tottenham": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 1.2173913043478262,
+        "defense_home": 1.2962962962962963,
+        "attack_away": 1.0740740740740742,
+        "defense_away": 1.0434782608695652
+    },
+    "Leicester": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.5217391304347826,
+        "defense_home": 1.2592592592592593,
+        "attack_away": 0.6666666666666666,
+        "defense_away": 1.6
+    },
+    "Ipswich": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.48695652173913045,
+        "defense_home": 1.6296296296296298,
+        "attack_away": 0.8148148148148149,
+        "defense_away": 1.3217391304347827
+    },
+    "Southampton": {
+        "league_key": "soccer_epl",
+        "league_avg_h": 1.513157894736842,
+        "league_avg_a": 1.4210526315789473,
+        "attack_home": 0.4521739130434783,
+        "defense_home": 1.740740740740741,
+        "attack_away": 0.4814814814814815,
+        "defense_away": 1.356521739130435
+    },
+    "Barcelona": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.8840579710144927,
+        "defense_home": 0.9029345372460497,
+        "attack_away": 2.2573363431151243,
+        "defense_away": 0.6884057971014492
+    },
+    "Real Madrid": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.6304347826086953,
+        "defense_home": 0.8577878103837472,
+        "attack_away": 1.489841986455982,
+        "defense_away": 0.6884057971014492
+    },
+    "Atletico Madrid": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.5217391304347827,
+        "defense_home": 0.6772009029345373,
+        "attack_away": 1.1738148984198646,
+        "defense_away": 0.5434782608695652
+    },
+    "Athletic Club": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.1594202898550723,
+        "defense_home": 0.5869074492099323,
+        "attack_away": 0.9932279909706547,
+        "defense_away": 0.5797101449275361
+    },
+    "Villarreal": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.5579710144927534,
+        "defense_home": 1.2189616252821671,
+        "attack_away": 1.2641083521444696,
+        "defense_away": 0.8695652173913042
+    },
+    "Real Betis": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.1594202898550723,
+        "defense_home": 0.9480812641083523,
+        "attack_away": 1.1286681715575622,
+        "defense_away": 1.0507246376811594
+    },
+    "Celta Vigo": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.1594202898550723,
+        "defense_home": 0.9480812641083523,
+        "attack_away": 1.2189616252821671,
+        "defense_away": 1.3043478260869563
+    },
+    "Rayo Vallecano": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.8695652173913042,
+        "defense_home": 1.1738148984198646,
+        "attack_away": 0.7674943566591422,
+        "defense_away": 0.6884057971014492
+    },
+    "Osasuna": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 1.1956521739130435,
+        "defense_home": 1.0383747178329572,
+        "attack_away": 0.6772009029345373,
+        "defense_away": 1.0507246376811594
+    },
+    "Mallorca": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.7246376811594202,
+        "defense_home": 0.9480812641083523,
+        "attack_away": 0.6772009029345373,
+        "defense_away": 0.8333333333333333
+    },
+    "Real Sociedad": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.7246376811594202,
+        "defense_home": 0.9029345372460497,
+        "attack_away": 0.6772009029345373,
+        "defense_away": 0.9420289855072463
+    },
+    "Valencia": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.9420289855072463,
+        "defense_home": 0.9029345372460497,
+        "attack_away": 0.8126410835214447,
+        "defense_away": 1.2318840579710144
+    },
+    "Getafe": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.5434782608695652,
+        "defense_home": 0.8577878103837472,
+        "attack_away": 0.8577878103837472,
+        "defense_away": 0.7246376811594202
+    },
+    "Espanyol": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.8333333333333333,
+        "defense_home": 0.9029345372460497,
+        "attack_away": 0.7674943566591422,
+        "defense_away": 1.1231884057971013
+    },
+    "Alaves": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.5072463768115941,
+        "defense_home": 0.7674943566591422,
+        "attack_away": 1.0835214446952595,
+        "defense_away": 1.1231884057971013
+    },
+    "Girona": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.9782608695652173,
+        "defense_home": 1.3544018058690745,
+        "attack_away": 0.7674943566591422,
+        "defense_away": 1.0869565217391304
+    },
+    "Sevilla": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.6159420289855072,
+        "defense_home": 1.0383747178329572,
+        "attack_away": 1.1286681715575622,
+        "defense_away": 1.1594202898550723
+    },
+    "Leganes": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.8333333333333333,
+        "defense_home": 1.2189616252821671,
+        "attack_away": 0.7223476297968398,
+        "defense_away": 1.0507246376811594
+    },
+    "Las Palmas": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.7608695652173914,
+        "defense_home": 1.309255079006772,
+        "attack_away": 0.8577878103837472,
+        "defense_away": 1.1594202898550723
+    },
+    "Valladolid": {
+        "league_key": "soccer_spain_la_liga",
+        "league_avg_h": 1.4526315789473685,
+        "league_avg_a": 1.1657894736842105,
+        "attack_home": 0.39855072463768115,
+        "defense_home": 1.4446952595936795,
+        "attack_away": 0.6772009029345373,
+        "defense_away": 2.101449275362319
+    },
+    "Napoli": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.2573673870333988,
+        "defense_home": 0.5603448275862069,
+        "attack_away": 1.1637931034482758,
+        "defense_away": 0.5500982318271119
+    },
+    "Inter": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.5717092337917484,
+        "defense_home": 0.9051724137931035,
+        "attack_away": 1.6810344827586208,
+        "defense_away": 0.5500982318271119
+    },
+    "Atalanta": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.4145383104125735,
+        "defense_home": 1.0344827586206895,
+        "attack_away": 1.810344827586207,
+        "defense_away": 0.5108055009823183
+    },
+    "Juventus": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.218074656188605,
+        "defense_home": 0.646551724137931,
+        "attack_away": 1.1637931034482758,
+        "defense_away": 0.7858546168958742
+    },
+    "AS Roma": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.4538310412573674,
+        "defense_home": 0.646551724137931,
+        "attack_away": 0.8189655172413793,
+        "defense_away": 0.7858546168958742
+    },
+    "Fiorentina": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.2573673870333988,
+        "defense_home": 0.7758620689655172,
+        "attack_away": 1.206896551724138,
+        "defense_away": 0.9037328094302554
+    },
+    "Lazio": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.2966601178781925,
+        "defense_home": 1.1206896551724137,
+        "attack_away": 1.206896551724138,
+        "defense_away": 0.9037328094302554
+    },
+    "AC Milan": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.1787819253438114,
+        "defense_home": 0.689655172413793,
+        "attack_away": 1.336206896551724,
+        "defense_away": 1.0609037328094302
+    },
+    "Bologna": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.2966601178781925,
+        "defense_home": 0.7758620689655172,
+        "attack_away": 1.0344827586206895,
+        "defense_away": 1.1394891944990178
+    },
+    "Como": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 1.1001964636542239,
+        "defense_home": 1.1206896551724137,
+        "attack_away": 0.9051724137931035,
+        "defense_away": 1.0216110019646365
+    },
+    "Torino": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.6679764243614931,
+        "defense_home": 0.7758620689655172,
+        "attack_away": 0.9482758620689655,
+        "defense_away": 1.0609037328094302
+    },
+    "Udinese": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.8644400785854617,
+        "defense_home": 1.1637931034482758,
+        "attack_away": 0.8189655172413793,
+        "defense_away": 1.1394891944990178
+    },
+    "Genoa": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.825147347740668,
+        "defense_home": 1.0775862068965518,
+        "attack_away": 0.689655172413793,
+        "defense_away": 0.943025540275049
+    },
+    "Verona": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.5893909626719057,
+        "defense_home": 1.5517241379310345,
+        "attack_away": 0.8189655172413793,
+        "defense_away": 1.1787819253438114
+    },
+    "Cagliari": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.943025540275049,
+        "defense_home": 1.206896551724138,
+        "attack_away": 0.689655172413793,
+        "defense_away": 1.1001964636542239
+    },
+    "Parma": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.9823182711198428,
+        "defense_home": 1.206896551724138,
+        "attack_away": 0.8189655172413793,
+        "defense_away": 1.1787819253438114
+    },
+    "Lecce": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.5108055009823183,
+        "defense_home": 1.336206896551724,
+        "attack_away": 0.603448275862069,
+        "defense_away": 1.0609037328094302
+    },
+    "Empoli": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.3929273084479371,
+        "defense_home": 1.1206896551724137,
+        "attack_away": 0.9913793103448275,
+        "defense_away": 1.2966601178781925
+    },
+    "Venezia": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.6679764243614931,
+        "defense_home": 0.9482758620689655,
+        "attack_away": 0.646551724137931,
+        "defense_away": 1.3359528487229861
+    },
+    "Monza": {
+        "league_key": "soccer_italy_serie_a",
+        "league_avg_h": 1.3394736842105264,
+        "league_avg_a": 1.2210526315789474,
+        "attack_home": 0.5108055009823183,
+        "defense_home": 1.336206896551724,
+        "attack_away": 0.646551724137931,
+        "defense_away": 1.493123772102161
+    },
+    "Bayern M\u00fcnchen": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.9118236472945893,
+        "defense_home": 0.6260869565217392,
+        "attack_away": 1.8,
+        "defense_away": 0.5771543086172345
+    },
+    "Bayer Leverkusen": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.2985971943887775,
+        "defense_home": 0.8608695652173913,
+        "attack_away": 1.4086956521739131,
+        "defense_away": 0.7575150300601203
+    },
+    "Eintracht Frankfurt": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.4789579158316633,
+        "defense_home": 0.8608695652173913,
+        "attack_away": 1.0565217391304347,
+        "defense_away": 0.8657314629258518
+    },
+    "Borussia Dortmund": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.5871743486973948,
+        "defense_home": 0.7434782608695653,
+        "attack_away": 1.0565217391304347,
+        "defense_away": 1.154308617234469
+    },
+    "SC Freiburg": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.154308617234469,
+        "defense_home": 1.017391304347826,
+        "attack_away": 0.6652173913043479,
+        "defense_away": 0.9739478957915831
+    },
+    "FSV Mainz 05": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.8657314629258518,
+        "defense_home": 0.7043478260869566,
+        "attack_away": 1.2130434782608694,
+        "defense_away": 0.901803607214429
+    },
+    "RB Leipzig": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.1903807615230462,
+        "defense_home": 0.9,
+        "attack_away": 0.782608695652174,
+        "defense_away": 0.901803607214429
+    },
+    "Werder Bremen": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.7575150300601203,
+        "defense_home": 1.017391304347826,
+        "attack_away": 1.291304347826087,
+        "defense_away": 1.1182364729458918
+    },
+    "VfB Stuttgart": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.2625250501002003,
+        "defense_home": 1.0565217391304347,
+        "attack_away": 1.134782608695652,
+        "defense_away": 0.937875751503006
+    },
+    "Borussia M\u00f6nchengladbach": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 1.0460921843687374,
+        "defense_home": 1.017391304347826,
+        "attack_away": 1.017391304347826,
+        "defense_away": 1.1182364729458918
+    },
+    "VfL Wolfsburg": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.9739478957915831,
+        "defense_home": 1.1739130434782608,
+        "attack_away": 1.134782608695652,
+        "defense_away": 0.8657314629258518
+    },
+    "FC Augsburg": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.6492985971943888,
+        "defense_home": 0.782608695652174,
+        "attack_away": 0.6652173913043479,
+        "defense_away": 1.1182364729458918
+    },
+    "Union Berlin": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.6492985971943888,
+        "defense_home": 0.9,
+        "attack_away": 0.6652173913043479,
+        "defense_away": 1.0100200400801602
+    },
+    "FC St. Pauli": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.36072144288577157,
+        "defense_home": 0.7434782608695653,
+        "attack_away": 0.7043478260869566,
+        "defense_away": 0.7935871743486974
+    },
+    "1899 Hoffenheim": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.901803607214429,
+        "defense_home": 1.4086956521739131,
+        "attack_away": 0.8217391304347826,
+        "defense_away": 1.154308617234469
+    },
+    "1. FC Heidenheim": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.468937875751503,
+        "defense_home": 1.291304347826087,
+        "attack_away": 0.9391304347826087,
+        "defense_away": 1.1182364729458918
+    },
+    "Holstein Kiel": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.8657314629258518,
+        "defense_home": 1.6043478260869564,
+        "attack_away": 0.9782608695652175,
+        "defense_away": 1.4068136272545089
+    },
+    "VfL Bochum": {
+        "league_key": "soccer_germany_bundesliga",
+        "league_avg_h": 1.630718954248366,
+        "league_avg_a": 1.5032679738562091,
+        "attack_home": 0.5771543086172345,
+        "defense_home": 1.291304347826087,
+        "attack_away": 0.6652173913043479,
+        "defense_away": 1.2264529058116234
+    },
+    "Paris Saint Germain": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.646341463414634,
+        "defense_home": 0.6873508353221957,
+        "attack_away": 2.01909307875895,
+        "defense_away": 0.6951219512195121
+    },
+    "Marseille": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.4999999999999998,
+        "defense_home": 0.9880668257756564,
+        "attack_away": 1.4176610978520285,
+        "defense_away": 0.8780487804878049
+    },
+    "Monaco": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.3902439024390243,
+        "defense_home": 0.6873508353221957,
+        "attack_away": 1.0739856801909309,
+        "defense_away": 0.9146341463414634
+    },
+    "Nice": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.3902439024390243,
+        "defense_home": 0.6443914081145584,
+        "attack_away": 1.2028639618138424,
+        "defense_away": 0.9512195121951218
+    },
+    "Lille": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.1341463414634145,
+        "defense_home": 0.7732696897374701,
+        "attack_away": 0.9021479713603819,
+        "defense_away": 0.6585365853658537
+    },
+    "Lyon": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.3536585365853657,
+        "defense_home": 0.9021479713603819,
+        "attack_away": 1.2028639618138424,
+        "defense_away": 0.9146341463414634
+    },
+    "Strasbourg": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.2073170731707317,
+        "defense_home": 0.8591885441527446,
+        "attack_away": 0.9880668257756564,
+        "defense_away": 0.8780487804878049
+    },
+    "Lens": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.6951219512195121,
+        "defense_home": 0.9451073985680192,
+        "attack_away": 0.9880668257756564,
+        "defense_away": 0.6219512195121951
+    },
+    "Stade Brestois 29": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 1.1341463414634145,
+        "defense_home": 0.9021479713603819,
+        "attack_away": 0.9021479713603819,
+        "defense_away": 1.3902439024390243
+    },
+    "Toulouse": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.7317073170731707,
+        "defense_home": 0.9451073985680192,
+        "attack_away": 1.0310262529832936,
+        "defense_away": 0.7682926829268293
+    },
+    "Auxerre": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.8780487804878049,
+        "defense_home": 0.7303102625298329,
+        "attack_away": 1.0310262529832936,
+        "defense_away": 1.2439024390243902
+    },
+    "Rennes": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.9146341463414634,
+        "defense_home": 0.7303102625298329,
+        "attack_away": 1.116945107398568,
+        "defense_away": 1.2073170731707317
+    },
+    "Nantes": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.6951219512195121,
+        "defense_home": 0.7732696897374701,
+        "attack_away": 0.8591885441527446,
+        "defense_away": 1.2439024390243902
+    },
+    "Angers": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.6585365853658537,
+        "defense_home": 1.4176610978520285,
+        "attack_away": 0.6014319809069212,
+        "defense_away": 0.7317073170731707
+    },
+    "Le Havre": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.548780487804878,
+        "defense_home": 1.7613365155131264,
+        "attack_away": 1.0739856801909309,
+        "defense_away": 1.097560975609756
+    },
+    "Reims": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.6219512195121951,
+        "defense_home": 1.0739856801909309,
+        "attack_away": 0.6873508353221957,
+        "defense_away": 0.8048780487804879
+    },
+    "Saint Etienne": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.8780487804878049,
+        "defense_home": 1.4176610978520285,
+        "attack_away": 0.6443914081145584,
+        "defense_away": 1.6097560975609757
+    },
+    "Montpellier": {
+        "league_key": "soccer_france_ligue_one",
+        "league_avg_h": 1.607843137254902,
+        "league_avg_a": 1.369281045751634,
+        "attack_home": 0.6219512195121951,
+        "defense_home": 1.7613365155131264,
+        "attack_away": 0.2577565632458234,
+        "defense_away": 1.3902439024390243
+    },
+    "FCSB": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.1896551724137931,
+        "defense_home": 0.8348623853211009,
+        "attack_away": 1.2844036697247705,
+        "defense_away": 0.5689655172413792
+    },
+    "CFR 1907 Cluj": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.8103448275862069,
+        "defense_home": 1.2844036697247705,
+        "attack_away": 1.348623853211009,
+        "defense_away": 0.6206896551724138
+    },
+    "Universitatea Craiova": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.4482758620689655,
+        "defense_home": 0.7706422018348623,
+        "attack_away": 1.091743119266055,
+        "defense_away": 0.8275862068965517
+    },
+    "Universitatea Cluj": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.4482758620689655,
+        "defense_home": 1.0275229357798163,
+        "attack_away": 0.9633027522935779,
+        "defense_away": 0.5689655172413792
+    },
+    "Rapid": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.1379310344827585,
+        "defense_home": 0.6422018348623852,
+        "attack_away": 0.8348623853211009,
+        "defense_away": 0.8275862068965517
+    },
+    "Dinamo Bucuresti": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 1.086206896551724,
+        "defense_home": 0.7064220183486237,
+        "attack_away": 1.2844036697247705,
+        "defense_away": 0.7758620689655172
+    },
+    "AFC Hermannstadt": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.9310344827586206,
+        "defense_home": 0.8348623853211009,
+        "attack_away": 1.0275229357798163,
+        "defense_away": 1.396551724137931
+    },
+    "O\u0163elul": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.6206896551724138,
+        "defense_home": 1.0275229357798163,
+        "attack_away": 0.7706422018348623,
+        "defense_away": 0.8275862068965517
+    },
+    "Petrolul Ploiesti": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.8275862068965517,
+        "defense_home": 0.5137614678899082,
+        "attack_away": 0.8348623853211009,
+        "defense_away": 1.086206896551724
+    },
+    "Uta Arad": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.8275862068965517,
+        "defense_home": 1.2844036697247705,
+        "attack_away": 0.7706422018348623,
+        "defense_away": 0.7758620689655172
+    },
+    "Farul Constanta": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.9310344827586206,
+        "defense_home": 1.220183486238532,
+        "attack_away": 0.7064220183486237,
+        "defense_away": 0.982758620689655
+    },
+    "FC Botosani": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.8793103448275861,
+        "defense_home": 1.091743119266055,
+        "attack_away": 0.5779816513761468,
+        "defense_away": 1.0344827586206895
+    },
+    "Politehnica Iasi": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.8275862068965517,
+        "defense_home": 1.091743119266055,
+        "attack_away": 0.8348623853211009,
+        "defense_away": 1.5
+    },
+    "Unirea Slobozia": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.7758620689655172,
+        "defense_home": 1.348623853211009,
+        "attack_away": 0.8348623853211009,
+        "defense_away": 1.3448275862068966
+    },
+    "Sepsi OSK Sfantu Gheorghe": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.9310344827586206,
+        "defense_home": 0.6422018348623852,
+        "attack_away": 1.2844036697247705,
+        "defense_away": 1.293103448275862
+    },
+    "SCM Gloria Buz\u0103u": {
+        "league_key": "soccer_romania_liga_1",
+        "league_avg_h": 1.288888888888889,
+        "league_avg_a": 1.0380952380952382,
+        "attack_home": 0.6206896551724138,
+        "defense_home": 0.9633027522935779,
+        "attack_away": 0.8348623853211009,
+        "defense_away": 1.862068965517241
+    },
+    "Netherlands": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Senegal": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Ecuador": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Qatar": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "England": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "USA": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Iran": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Wales": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Argentina": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Poland": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Mexico": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Saudi Arabia": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "France": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Australia": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Tunisia": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Denmark": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Japan": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Spain": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Germany": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Costa Rica": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Morocco": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Croatia": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Belgium": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Canada": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Brazil": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Switzerland": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Cameroon": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Serbia": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Portugal": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "South Korea": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Uruguay": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Ghana": {
+        "league_key": "soccer_fifa_world_cup",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Hungary": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Scotland": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Italy": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Albania": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Slovenia": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Austria": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Romania": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Slovakia": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Ukraine": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "T\u00fcrkiye": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Georgia": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Czech Republic": {
+        "league_key": "soccer_uefa_euro",
+        "league_avg_h": 0.0,
+        "league_avg_a": 0.0,
+        "attack_home": 1.0,
+        "defense_home": 1.0,
+        "attack_away": 1.0,
+        "defense_away": 1.0
+    },
+    "Botafogo": {
+        "attack_home": 1.157,
+        "attack_away": 1.425,
+        "defense_home": 0.662,
+        "defense_away": 0.597,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Palmeiras": {
+        "attack_home": 1.269,
+        "attack_away": 1.323,
+        "defense_home": 0.814,
+        "defense_away": 0.634,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Flamengo": {
+        "attack_home": 1.119,
+        "attack_away": 1.578,
+        "defense_home": 1.069,
+        "defense_away": 0.784,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Fortaleza EC": {
+        "attack_home": 1.194,
+        "attack_away": 1.069,
+        "defense_home": 0.407,
+        "defense_away": 1.157,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Internacional": {
+        "attack_home": 1.119,
+        "attack_away": 1.17,
+        "defense_home": 0.763,
+        "defense_away": 0.784,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Sao Paulo": {
+        "attack_home": 1.157,
+        "attack_away": 1.12,
+        "defense_home": 0.916,
+        "defense_away": 0.933,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Corinthians": {
+        "attack_home": 1.381,
+        "attack_away": 0.865,
+        "defense_home": 0.916,
+        "defense_away": 1.007,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Bahia": {
+        "attack_home": 0.933,
+        "attack_away": 1.221,
+        "defense_home": 0.763,
+        "defense_away": 1.269,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Cruzeiro": {
+        "attack_home": 1.082,
+        "attack_away": 0.712,
+        "defense_home": 0.814,
+        "defense_away": 0.933,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Vasco DA Gama": {
+        "attack_home": 1.082,
+        "attack_away": 0.712,
+        "defense_home": 1.221,
+        "defense_away": 1.194,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Vitoria": {
+        "attack_home": 0.858,
+        "attack_away": 1.12,
+        "defense_home": 1.17,
+        "defense_away": 1.082,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Atletico-MG": {
+        "attack_home": 1.007,
+        "attack_away": 1.018,
+        "defense_home": 1.323,
+        "defense_away": 1.045,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Fluminense": {
+        "attack_home": 0.746,
+        "attack_away": 0.662,
+        "defense_home": 0.814,
+        "defense_away": 0.858,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Gremio": {
+        "attack_home": 0.97,
+        "attack_away": 0.916,
+        "defense_home": 1.323,
+        "defense_away": 0.896,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Juventude": {
+        "attack_home": 1.007,
+        "attack_away": 1.069,
+        "defense_home": 1.221,
+        "defense_away": 1.306,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "RB Bragantino": {
+        "attack_home": 1.007,
+        "attack_away": 0.865,
+        "defense_home": 0.967,
+        "defense_away": 1.082,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Atletico Paranaense": {
+        "attack_home": 0.896,
+        "attack_away": 0.814,
+        "defense_home": 1.069,
+        "defense_away": 0.933,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Criciuma": {
+        "attack_home": 0.821,
+        "attack_away": 1.018,
+        "defense_home": 1.374,
+        "defense_away": 1.269,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Atletico Goianiense": {
+        "attack_home": 0.597,
+        "attack_away": 0.662,
+        "defense_home": 1.221,
+        "defense_away": 1.269,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Cuiaba": {
+        "attack_home": 0.597,
+        "attack_away": 0.662,
+        "defense_home": 1.17,
+        "defense_away": 0.97,
+        "league_avg_h": 1.411,
+        "league_avg_a": 1.034
+    },
+    "Inter Miami": {
+        "attack_home": 1.573,
+        "attack_away": 1.429,
+        "defense_home": 0.924,
+        "defense_away": 0.944,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Columbus Crew": {
+        "attack_home": 1.329,
+        "attack_away": 1.429,
+        "defense_home": 0.882,
+        "defense_away": 0.664,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "FC Cincinnati": {
+        "attack_home": 0.909,
+        "attack_away": 1.345,
+        "defense_home": 0.924,
+        "defense_away": 0.909,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Orlando City SC": {
+        "attack_home": 0.979,
+        "attack_away": 1.303,
+        "defense_home": 0.756,
+        "defense_away": 1.119,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Charlotte": {
+        "attack_home": 0.874,
+        "attack_away": 0.882,
+        "defense_home": 0.63,
+        "defense_away": 0.769,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "New York City FC": {
+        "attack_home": 1.224,
+        "attack_away": 0.798,
+        "defense_home": 1.05,
+        "defense_away": 0.839,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "New York Red Bulls": {
+        "attack_home": 1.084,
+        "attack_away": 1.008,
+        "defense_home": 0.966,
+        "defense_away": 0.944,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "CF Montreal": {
+        "attack_home": 0.979,
+        "attack_away": 0.84,
+        "defense_home": 0.966,
+        "defense_away": 1.434,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Atlanta United FC": {
+        "attack_home": 1.049,
+        "attack_away": 0.672,
+        "defense_home": 1.134,
+        "defense_away": 0.769,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "DC United": {
+        "attack_home": 0.909,
+        "attack_away": 1.092,
+        "defense_home": 1.513,
+        "defense_away": 1.189,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Toronto FC": {
+        "attack_home": 0.944,
+        "attack_away": 0.546,
+        "defense_home": 1.345,
+        "defense_away": 1.014,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Philadelphia Union": {
+        "attack_home": 0.944,
+        "attack_away": 1.471,
+        "defense_home": 0.966,
+        "defense_away": 1.119,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Nashville SC": {
+        "attack_home": 0.839,
+        "attack_away": 0.588,
+        "defense_home": 1.05,
+        "defense_away": 1.014,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "New England Revolution": {
+        "attack_home": 0.664,
+        "attack_away": 0.756,
+        "defense_home": 1.261,
+        "defense_away": 1.538,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    },
+    "Chicago Fire": {
+        "attack_home": 0.699,
+        "attack_away": 0.84,
+        "defense_home": 1.303,
+        "defense_away": 1.084,
+        "league_avg_h": 1.505,
+        "league_avg_a": 1.253
+    }
+}
