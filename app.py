@@ -1,10 +1,10 @@
-import streamlit as st
 import datetime
 import json
 import os
 from dotenv import load_dotenv
 from model_poisson import calculate_1x2_probs
 import requests
+import streamlit as st
 from utils import get_standard_name
 
 # --- App Configuration & Environment Setup ---
@@ -157,7 +157,8 @@ def incarca_istoric():
   try:
     res = requests.get(url, headers=headers)
     if res.status_code == 200:
-      return res.json().get("record", [])
+      record = res.json().get("record", [])
+      return record if isinstance(record, list) else []
   except:
     pass
   return []
@@ -197,14 +198,16 @@ def verifica_status_bilete():
   updated = False
 
   for bilet in istoric:
-    if bilet["status"] != "În desfășurare":
+    if not isinstance(bilet, dict):
+      continue
+    if bilet.get("status") != "În desfășurare":
       continue
 
     bilet_pierdut = False
     toate_meciurile_terminate = True
 
-    for bet in bilet["ticket"]:
-      teams = bet["match"].split(" vs ")
+    for bet in bilet.get("ticket", []):
+      teams = bet.get("match", "").split(" vs ")
       if len(teams) != 2:
         toate_meciurile_terminate = False
         continue
@@ -232,7 +235,7 @@ def verifica_status_bilete():
                 match_found = False
                 break
 
-              sel = bet["selection"]
+              sel = bet.get("selection")
               if sel == "1" and hg > ag:
                 rezultat_corect = True
               elif sel == "2" and ag > hg:
@@ -481,20 +484,34 @@ if st.button("🔄 Verifică Statusul Biletelor Salvate"):
     st.success("Verificare finalizată!")
 
 saved_tickets = incarca_istoric()
-if saved_tickets:
+if saved_tickets and isinstance(saved_tickets, list):
+  valid_tickets_found = False
   for sb in saved_tickets:
+    if not isinstance(sb, dict):
+      continue
+    valid_tickets_found = True
+    status = sb.get("status", "În desfășurare")
     status_color = (
         "🟡"
-        if sb["status"] == "În desfășurare"
-        else ("🟢" if "Câștigat" in sb["status"] else "🔴")
+        if status == "În desfășurare"
+        else ("🟢" if "Câștigat" in status else "🔴")
     )
+
+    ticket_id = sb.get("id", "?")
+    ticket_data = sb.get("data", "")
+    ticket_cota = sb.get("cota", 0.0)
+
     with st.expander(
-        f"Bilet #{sb['id']} | Dată: {sb['data']} | Cota: {sb['cota']:.2f} |"
-        f" Status: {status_color} {sb['status']}"
+        f"Bilet #{ticket_id} | Dată: {ticket_data} | Cota: {ticket_cota:.2f} |"
+        f" Status: {status_color} {status}"
     ):
-      for b in sb["ticket"]:
+      for b in sb.get("ticket", []):
         st.write(
-            f"- {b['match']} | **{b['selection']}** (Cota: {b['odds']:.2f})"
+            f"- {b.get('match', '')} | **{b.get('selection', '')}** (Cota:"
+            f" {b.get('odds', 0.0):.2f})"
         )
+
+  if not valid_tickets_found:
+    st.info("Nu există bilete salvate în istoric momentan.")
 else:
   st.info("Nu există bilete salvate în istoric momentan.")
