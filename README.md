@@ -24,4 +24,4 @@ PariuBot is a hybrid (Web/CLI) application designed to eliminate guesswork in sp
    - Allows instant dispatch of generated tickets directly to a private Telegram chat or channel.
 
 ---
-
+🌐 **Live Demo:** [Access the live application](https://valuepulse-bjupjmr3y6gbxtkxdnwyos.streamlit.app)
